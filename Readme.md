@@ -6,4 +6,6 @@
 
 * Like, I want to buy iPhone 11, And I simply searched for that and In return got these results where I can easily compare.
 
+![alt text](https://github.com/aryang23/Automation_Price_Comparison/blob/main/img3.png)
+
 Note: - This is a kind of Practice Project, not for any hacakthon or official thing.
